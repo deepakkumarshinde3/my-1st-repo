@@ -51,4 +51,5 @@ Version Control System
             git remote add origin https://github.com/deepakkumarshinde3/my-1st-repo.git
             git push -u origin main
 
-            sadf
+        #4 copy code on your machine 
+            git clone repo_url
