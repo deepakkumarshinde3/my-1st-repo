@@ -1,0 +1,4 @@
+*.log
+.env
+packgae-lock.json
+node_modules
