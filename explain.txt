@@ -1,0 +1,54 @@
+Version Control System
+    one line code ==> save #tag v1
+    5 line ==> save #tag2 v2
+    10 line ==> save #tag3 v3
+
+    git / bit-bucket
+
+    # create a snapshot
+    # 2 team =>
+        1 => login
+        2 ==> registration
+
+        1+2 ==> combine code
+
+        1 ==> login + registration
+        2 ==> login + registration
+    # 3 fast to use
+    # 4 ==> tree
+        ==> one root
+             branches ==> unique code
+             (master) ==> parent branch
+             branch-1
+             branch-2
+
+
+    # my project
+
+        git ==> command line interface (local machine)
+        git-hub ==> application (remote)
+
+    bit bash ==> command line interface
+        # git 
+
+        #1 conf global setting
+            only once
+                git config --list
+                git config --global user.name "name"
+                git config --global user.email "email"
+
+            git init
+            
+        #2 create a repositories on github
+            repositories ==> like folder 
+
+        #3 to connect our local folder to remote git repo
+            git status ==> check git status
+            git init
+            git add README.md
+            git commit -m "first commit"
+            git branch -M main
+            git remote add origin https://github.com/deepakkumarshinde3/my-1st-repo.git
+            git push -u origin main
+
+            sadf
